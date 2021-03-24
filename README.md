@@ -1,17 +1,10 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+## Requirements
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+Given a starter code, including an HTML and CSS file, we were to build a pixel art maker using JavaScript.
 
-## Instructions
+The code should let the user create a grid of squares by choosing height and width of the grid (within reason) and then filling in any squares that were clicked with a colour chosen from the colour picker (already included in the HTML).
 
-To get started, open `designs.js` and start building out the app's functionality.
+The user should also be able to reset the grid to an "empty" state by clicking on the same "submit" button used for submitting height and width preferences.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-# PixelArt
